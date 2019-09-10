@@ -5,8 +5,8 @@ Created on Mon Aug 12 20:45:59 2019
 
 @author: lucas
 
-Ler dados cemaden de precipitação
-
+Ler dados do cemaden e do INMEPT de precipitação
+Arrumando ainda os acumulados
 """
 
 #municipio;codEstacao;uf;nomeEstacao;latitude;longitude;datahora;valorMedida
